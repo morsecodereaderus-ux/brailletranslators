@@ -1,8 +1,8 @@
-# Free Online Braille Translator
-
-![Braille Translator Screenshot](screenshot.png)
+![Braille Translator in Action](screenshot.png)
 
 ---
+# Free Online Braille Translator
+
 
 **Instant. Accurate. 100% Free.**  
 UEB Grade 1 & 2 · No signup · Works offline · Download .BRF
